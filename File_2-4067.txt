@@ -1,2 +1,4 @@
 Semester 1 : 4
 Semester 2 : 4 
+semester 3 : 4
+Semester 4 : 4
